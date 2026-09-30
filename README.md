@@ -12,7 +12,7 @@ Custom OpenEnv environment for LLM-based ticket triage with partial-credit rewar
 *Python · FastAPI · Docker · Pydantic · Hugging Face Spaces*  
 🔗 [Live Demo](https://pramod999-support-triage-env.hf.space/docs)
 
-📊 **[Finsight](https://github.com/venkatapramod/Finsight-financial-chatbot)**  
+📊 **[Financial chatbot](https://github.com/venkatapramod/Finsight-financial-chatbot)**  
 RAG-based chatbot for Q&A over financial PDFs, DOCX, and XLSX documents.  
 *Python · LangChain · ChromaDB · Groq · Streamlit*  
 🔗 [Live Demo](https://finsight-financial-chatbot-fjcsiydyuhe5dkcgjitgpg.streamlit.app/)
