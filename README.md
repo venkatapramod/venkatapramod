@@ -1,6 +1,6 @@
 ### Hi, I'm Venkata Pramod 👋
 
-B.Tech Computer Science Engineering student focused on AI/ML and Python.  
+B.Tech Computer Science Engineering graduate focused on AI/ML and Python.  
 Currently building agentic systems with LLMs, RAG, and reinforcement learning environments.
 
 ---
